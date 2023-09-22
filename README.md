@@ -1,6 +1,7 @@
 # Blazor WebAssembly Real-Time Chat
 
-![image](https://github.com/Md-Ruhul-Amin-Rony/ChatAppSignalRBlazor/assets/112938703/6b314f25-b0cb-4aad-91ac-abc0afedb23d)
+![image](https://github.com/Md-Ruhul-Amin-Rony/ChatAppSignalRBlazor/assets/112938703/1416b396-dd13-4374-93fa-73f3ee2a5f5d)
+
 
 
 This is a simple real-time chat application built using Blazor WebAssembly and SignalR. Users can enter their names and join the chat room to send and receive messages in real-time. The chat box also includes a scroll-down feature to keep the latest messages in view.
