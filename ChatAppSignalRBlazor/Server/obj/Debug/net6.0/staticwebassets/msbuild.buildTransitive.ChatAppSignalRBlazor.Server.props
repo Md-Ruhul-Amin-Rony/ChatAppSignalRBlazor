@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChatAppSignalRBlazor.Server.props" />
+</Project>

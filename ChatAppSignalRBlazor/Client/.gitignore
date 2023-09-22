@@ -1,0 +1,55 @@
+﻿# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code #
+#####################
+.vscode/
+
+# JetBrains Rider #
+###################
+.idea/
+
+# User-specific files #
+######################
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User secrets (if used) #
+###########################
+appsettings.Development.json
+
+# Binaries #
+############
+/bin/
+/obj/
+/App_Data/
+
+# Logs and temporary files #
+###########################
+/Logs/
+/.log/
+/.logs/
+/.tmp/
+/temp/
+/.temp/
+
+# Compiled assets (if used) #
+###############################
+/wwwroot/dist/
+
+# Node.js and npm dependencies (if used) #
+#########################################
+/node_modules/
+
+# Compiled JavaScript files (if used) #
+########################################
+*.bundle.js
+*.min.js
+
+# Dependency lock files (if used) #
+####################################
+*.lock.json

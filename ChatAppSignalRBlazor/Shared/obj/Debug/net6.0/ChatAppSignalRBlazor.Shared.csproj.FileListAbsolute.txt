@@ -1,0 +1,12 @@
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\bin\Debug\net6.0\ChatAppSignalRBlazor.Shared.deps.json
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\bin\Debug\net6.0\ChatAppSignalRBlazor.Shared.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\bin\Debug\net6.0\ChatAppSignalRBlazor.Shared.pdb
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.csproj.AssemblyReference.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.AssemblyInfo.cs
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\refint\ChatAppSignalRBlazor.Shared.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ChatAppSignalRBlazor.Shared.pdb
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\ChatAppSignalRBlazor\ChatAppSignalRBlazor\Shared\obj\Debug\net6.0\ref\ChatAppSignalRBlazor.Shared.dll
